@@ -21,10 +21,7 @@
   },
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
-  "spriteId":{
-    "name":"spr_tileset_world",
-    "path":"sprites/spr_tileset_world/spr_tileset_world.yy",
-  },
+  "spriteId":null,
   "spriteNoExport":true,
   "textureGroupId":{
     "name":"tg_game",
