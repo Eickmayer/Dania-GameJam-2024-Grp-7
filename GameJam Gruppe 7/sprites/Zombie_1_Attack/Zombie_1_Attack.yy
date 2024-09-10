@@ -1,6 +1,6 @@
 {
   "$GMSprite":"",
-  "%Name":"Zombie_1_Atack",
+  "%Name":"Zombie_1_Attack",
   "bboxMode":0,
   "bbox_bottom":31,
   "bbox_left":10,
@@ -26,7 +26,7 @@
   "layers":[
     {"$GMImageLayer":"","%Name":"11acd89e-39f6-46d7-9bcf-42648e58b625","blendMode":0,"displayName":"default","isLocked":false,"name":"11acd89e-39f6-46d7-9bcf-42648e58b625","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"Zombie_1_Atack",
+  "name":"Zombie_1_Attack",
   "nineSlice":null,
   "origin":4,
   "parent":{
@@ -38,7 +38,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"",
-    "%Name":"Zombie_1_Atack",
+    "%Name":"Zombie_1_Attack",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -62,7 +62,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"Zombie_1_Atack",
+    "name":"Zombie_1_Attack",
     "playback":1,
     "playbackSpeed":15.0,
     "playbackSpeedType":0,
@@ -74,22 +74,22 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"406a6516-b630-4ae3-b91e-1957a404f1aa","path":"sprites/Zombie_1_Atack/Zombie_1_Atack.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"406a6516-b630-4ae3-b91e-1957a404f1aa","path":"sprites/Zombie_1_Attack/Zombie_1_Attack.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"ce038e15-89ea-41ee-9495-7ec2236e507a","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"2048492a-0a0d-42fd-8cd2-611623b1dd50","path":"sprites/Zombie_1_Atack/Zombie_1_Atack.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"2048492a-0a0d-42fd-8cd2-611623b1dd50","path":"sprites/Zombie_1_Attack/Zombie_1_Attack.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"82f29541-8482-408d-8ed2-1ff8f5f54552","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"96ebe8f8-e280-466b-bb16-9088efdb5460","path":"sprites/Zombie_1_Atack/Zombie_1_Atack.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"96ebe8f8-e280-466b-bb16-9088efdb5460","path":"sprites/Zombie_1_Attack/Zombie_1_Attack.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"146563b5-6698-4de5-9a0e-0ed6b6f40a69","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"5750c17f-8ea1-46c6-8a12-89471313efe5","path":"sprites/Zombie_1_Atack/Zombie_1_Atack.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"5750c17f-8ea1-46c6-8a12-89471313efe5","path":"sprites/Zombie_1_Attack/Zombie_1_Attack.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"15be00b3-f813-49a7-95bd-f505966c9500","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"aed6c081-c873-4187-a8b3-444be67dd6aa","path":"sprites/Zombie_1_Atack/Zombie_1_Atack.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"aed6c081-c873-4187-a8b3-444be67dd6aa","path":"sprites/Zombie_1_Attack/Zombie_1_Attack.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"2b44719f-9ae4-44cd-a5d3-f967170c498f","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"8804d537-bfaa-4c96-a9c8-5aee9f107bbd","path":"sprites/Zombie_1_Atack/Zombie_1_Atack.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"8804d537-bfaa-4c96-a9c8-5aee9f107bbd","path":"sprites/Zombie_1_Attack/Zombie_1_Attack.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"3d665fda-a438-4f59-a830-d9330c2b0c66","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
