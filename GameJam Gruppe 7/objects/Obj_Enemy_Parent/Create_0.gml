@@ -18,3 +18,10 @@ move_speed = 2;
 /// @DnDArgument : "option" "-move_speed"
 /// @DnDArgument : "option_1" "move_speed"
 vel_x = choose(-move_speed, move_speed);
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 0A9EA67E
+/// @DnDArgument : "expr" "1"
+/// @DnDArgument : "var" "hp"
+hp = 1;

@@ -45,9 +45,9 @@
     {"$GMFolder":"","%Name":"Tiles","folderPath":"folders/Sprites/Environment/Tiles.yy","name":"Tiles","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Trees","folderPath":"folders/Sprites/Environment/Trees.yy","name":"Trees","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Tubes","folderPath":"folders/Sprites/Environment/Tubes.yy","name":"Tubes","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"Icon","folderPath":"folders/Sprites/Icon.yy","name":"Icon","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"HUD_score","folderPath":"folders/Sprites/HUD_score.yy","name":"HUD_score","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"HUD_timer","folderPath":"folders/Sprites/HUD_timer.yy","name":"HUD_timer","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Icon","folderPath":"folders/Sprites/Icon.yy","name":"Icon","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Zombies","folderPath":"folders/Sprites/Zombies.yy","name":"Zombies","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Tile Sets","folderPath":"folders/Tile Sets.yy","name":"Tile Sets","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Timelines","folderPath":"folders/Timelines.yy","name":"Timelines","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -56,7 +56,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.8.0.169",
+    "IDEVersion":"2024.8.1.171",
   },
   "name":"GameJam Gruppe 7",
   "resources":[

@@ -65,3 +65,24 @@ var l0D3D5AD4_0 = instance_place(x + vel_x*2, y + 0, [Obj_Enemy_Parent]);if ((l
 	/// @DnDArgument : "expr" "-vel_x"
 	/// @DnDArgument : "var" "vel_x"
 	vel_x = -vel_x;}
+
+/// @DnDAction : YoYo Games.Common.If_Variable
+/// @DnDVersion : 1
+/// @DnDHash : 55C9C20E
+/// @DnDArgument : "var" "hp"
+/// @DnDArgument : "op" "3"
+if(hp <= 0){	/// @DnDAction : YoYo Games.Instances.Create_Instance
+	/// @DnDVersion : 1
+	/// @DnDHash : 0EAD9BBF
+	/// @DnDParent : 55C9C20E
+	/// @DnDArgument : "xpos_relative" "1"
+	/// @DnDArgument : "ypos_relative" "1"
+	/// @DnDArgument : "objectid" "defeated_object"
+	/// @DnDArgument : "layer" "layer"
+	instance_create_layer(x + 0, y + 0, layer, defeated_object);
+
+	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
+	/// @DnDVersion : 1
+	/// @DnDHash : 6F00D9E9
+	/// @DnDParent : 55C9C20E
+	instance_destroy();}
