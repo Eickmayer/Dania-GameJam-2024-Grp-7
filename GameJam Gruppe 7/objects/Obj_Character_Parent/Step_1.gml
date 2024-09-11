@@ -19,19 +19,17 @@ if(grounded == true){	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDInput : 2
 	/// @DnDParent : 019EC730
 	/// @DnDArgument : "expr" "x"
+	/// @DnDArgument : "expr_relative" "1"
 	/// @DnDArgument : "expr_1" "y"
 	/// @DnDArgument : "var" "grounded_x"
 	/// @DnDArgument : "var_1" "grounded_y"
-	grounded_x = x;
+	grounded_x += x;
 	grounded_y = y;}
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 4B470F37
-/// @DnDInput : 2
 /// @DnDArgument : "expr" "grav_speed"
 /// @DnDArgument : "expr_relative" "1"
 /// @DnDArgument : "var" "vel_y"
-/// @DnDArgument : "var_1" "vel_x"
 vel_y += grav_speed;
-vel_x = 0;
