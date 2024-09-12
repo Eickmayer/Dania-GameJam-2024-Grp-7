@@ -24,7 +24,7 @@
   ],
   "name":"Zombie_1_Idle",
   "nineSlice":null,
-  "origin":4,
+  "origin":7,
   "parent":{
     "name":"Zombies",
     "path":"folders/Sprites/Zombies.yy",
@@ -80,7 +80,7 @@
     "visibleRange":null,
     "volume":1.0,
     "xorigin":16,
-    "yorigin":16,
+    "yorigin":32,
   },
   "swatchColours":null,
   "swfPrecision":0.5,
