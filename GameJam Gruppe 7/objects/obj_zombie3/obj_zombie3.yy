@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_zombie2",
+  "%Name":"obj_zombie3",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_zombie2",
+  "name":"obj_zombie3",
   "overriddenProperties":[],
   "parent":{
     "name":"Enemies",
@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Zombie_2_Walking",
-    "path":"sprites/Zombie_2_Walking/Zombie_2_Walking.yy",
+    "name":"Zombie_3_Walking",
+    "path":"sprites/Zombie_3_Walking/Zombie_3_Walking.yy",
   },
   "spriteMaskId":null,
   "visible":true,

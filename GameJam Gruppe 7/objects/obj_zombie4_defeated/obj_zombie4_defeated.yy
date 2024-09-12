@@ -1,20 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"obj_zombie2",
+  "%Name":"obj_zombie4_defeated",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":7,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_zombie2",
+  "name":"obj_zombie4_defeated",
   "overriddenProperties":[],
   "parent":{
     "name":"Enemies",
     "path":"folders/Objects/Characters/Enemies.yy",
   },
-  "parentObjectId":{
-    "name":"Obj_Enemy_Parent",
-    "path":"objects/Obj_Enemy_Parent/Obj_Enemy_Parent.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -33,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Zombie_2_Walking",
-    "path":"sprites/Zombie_2_Walking/Zombie_2_Walking.yy",
+    "name":"Zombie_4_Death",
+    "path":"sprites/Zombie_4_Death/Zombie_4_Death.yy",
   },
   "spriteMaskId":null,
   "visible":true,
