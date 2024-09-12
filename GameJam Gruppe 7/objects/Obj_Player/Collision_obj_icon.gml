@@ -6,6 +6,6 @@ instance_destroy();
 /// @DnDAction : YoYo Games.Rooms.Go_To_Room
 /// @DnDVersion : 1
 /// @DnDHash : 262B57F3
-/// @DnDArgument : "room" "WIN"
-/// @DnDSaveInfo : "room" "WIN"
-room_goto(WIN);
+/// @DnDArgument : "room" "Level_2"
+/// @DnDSaveInfo : "room" "Level_2"
+room_goto(Level_2);
