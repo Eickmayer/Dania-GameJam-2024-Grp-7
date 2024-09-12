@@ -18,8 +18,8 @@ draw_self();
 /// @DnDAction : YoYo Games.Drawing.Draw_Value
 /// @DnDVersion : 1
 /// @DnDHash : 126B236E
-/// @DnDArgument : "x" "1486"
+/// @DnDArgument : "x" "1360"
 /// @DnDArgument : "y" "100"
 /// @DnDArgument : "caption" ""Kills: ""
 /// @DnDArgument : "var" "Obj_Player.kills"
-draw_text(1486, 100, string("Kills: ") + string(Obj_Player.kills));
+draw_text(1360, 100, string("Kills: ") + string(Obj_Player.kills));
