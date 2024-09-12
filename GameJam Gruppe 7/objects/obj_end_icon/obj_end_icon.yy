@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_icon",
+  "%Name":"obj_end_icon",
   "eventList":[],
   "managed":true,
-  "name":"obj_icon",
+  "name":"obj_end_icon",
   "overriddenProperties":[],
   "parent":{
     "name":"Environment",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"_41",
-    "path":"sprites/_41/_41.yy",
+    "name":"_13127",
+    "path":"sprites/_13127/_13127.yy",
   },
   "spriteMaskId":null,
   "visible":true,
