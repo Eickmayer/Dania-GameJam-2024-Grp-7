@@ -28,7 +28,7 @@
   ],
   "name":"Zombie_2_Death",
   "nineSlice":null,
-  "origin":7,
+  "origin":4,
   "parent":{
     "name":"Zombies",
     "path":"folders/Sprites/Zombies.yy",
@@ -96,7 +96,7 @@
     "visibleRange":null,
     "volume":1.0,
     "xorigin":16,
-    "yorigin":32,
+    "yorigin":16,
   },
   "swatchColours":null,
   "swfPrecision":0.5,
